@@ -1,4 +1,4 @@
-# Прошивка для S20
+# Прошивка для  Sonoff S20
 
 ## [Документация](https://github.com/yuri-afanasiev/sonoff-s20/wiki)
 ![1](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-s20/master/doc/1.png)
