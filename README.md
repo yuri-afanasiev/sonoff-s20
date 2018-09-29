@@ -6,6 +6,9 @@
 ![4](https://github.com/yuri-afanasiev/sonoff-s20/blob/master/doc/4.jpg)
 
  
+ ## Прошивки для других устройств:
+- [Sonoff BN-SZ01](https://github.com/yuri-afanasiev/esp8285-BN-SZ01)
+- [Sonoff Touch](https://github.com/yuri-afanasiev/sonoff-touch)
 
  
 ## Установка
