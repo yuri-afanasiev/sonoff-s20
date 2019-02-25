@@ -7,6 +7,7 @@
 
  
  ## Прошивки для других устройств:
+- [Sonoff POW R2](https://github.com/yuri-afanasiev/sonoff-pow-r2)
 - [Sonoff BN-SZ01](https://github.com/yuri-afanasiev/esp8285-BN-SZ01)
 - [Sonoff Touch](https://github.com/yuri-afanasiev/sonoff-touch)
 
